@@ -11,4 +11,4 @@ Aquí abajo está mi Linkedin por si quieres seguirme!
 
 | Proyecto | Tecnologías | 
 | :---------: | :---------: |
-|[Pt 1 : Proyecto1])|Tecnologías1|
+|[Pt 1 : Proyecto1]|Tecnologías1|
