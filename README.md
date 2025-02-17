@@ -5,4 +5,4 @@ Aquí vas a encontrar varios proyectos en los cuales me interesa y me divierte t
 
 Aquí abajo está mi Linkedin por si quieres seguirme!
 
-**[LinkedIn](www.linkedin.com/in/nicolás-cortés-león-7a540026b)
+**[LinkedIn](https://www.linkedin.com/in/nicolás-cortés-león-7a540026b)**
