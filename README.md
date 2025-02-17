@@ -11,4 +11,4 @@ Aquí abajo está mi Linkedin por si quieres seguirme!
 
 | Proyecto | Tecnologías | 
 | :---------: | :---------: |
-|[Pt 1 : Proyecto1]|Tecnologías1|
+[Script Python Finning](https://github.com/Kazanium/Portafolio/tree/main/ScriptFinning)|Python,PowerBI|
