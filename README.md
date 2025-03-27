@@ -11,4 +11,4 @@ Aquí abajo está mi Linkedin por si quieres seguirme!
 
 | Proyecto | Tecnologías | 
 | :---------: | :---------: |
-[Finning Práctica](https://github.com/Kazanium/Portafolio/tree/main/ScriptFinning)|Python/PowerBI/JSON/CSV/REST API/HTTP|
+[Finning Práctica](https://github.com/Kazanium/Portafolio/tree/main/ScriptFinning)|Python/PowerBI/JSON/CSV/REST API/HTTP/Power Automate|
