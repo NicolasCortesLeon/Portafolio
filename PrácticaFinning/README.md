@@ -9,3 +9,7 @@ Aquí se muestra el proceso en el cual se realizan 33 solicitudes HTTP a SharePo
 Luego, todos los archivos json son almacenados en una carpeta de SharePoint, esto mediante acciones de PowerAutomate.
 
 ![Image](https://github.com/user-attachments/assets/9a4b162f-911e-4cc5-9c1a-30135c2670c5)
+
+Posteriormente, mediante Power BI, se extraen los archivos almacenados en la carpeta de SharePoint. Power BI, además de permitir conexiones a servicios como APIs o carpetas en la nube (tipo Drive), también puede acceder a carpetas de SharePoint y procesar archivos en formato json. Gracias a estas capacidades, fue posible elaborar el reporte directamente a partir de los archivos generados.
+
+![Image](https://github.com/user-attachments/assets/f5464419-54e9-4c33-b8eb-ccafca40e7ab)
