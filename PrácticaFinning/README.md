@@ -6,4 +6,4 @@ Este código sirve como Back-up ya que también hallé una solución que se cone
 
 Aquí se muestra el proceso en el cual se realizan 33 solicitudes HTTP a SharePoint mediante Power Automate, cuyas respuestas están en formato JSON. Power Automate utiliza la API de Microsoft, lo que permitió evitar la creación de una aplicación en Azure Active Directory (Azure AD). Esto se debe a que, por políticas de la empresa, la creación de aplicaciones en Azure AD debe ser solicitada formalmente, y el proceso de aprobación y respuesta suele ser largo. Por ello, no fue necesaria la creación de dicha aplicación.
 
-![Image](https://github.com/NicolasCortesLeon/Portafolio/issues/2#issue-3148361563)
+![Image](https://github.com/user-attachments/assets/e0a58743-bdd7-4482-891b-73c97a380ae5)
