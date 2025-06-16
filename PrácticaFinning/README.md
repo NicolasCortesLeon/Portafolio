@@ -13,3 +13,7 @@ Luego, todos los archivos json son almacenados en una carpeta de SharePoint, est
 Posteriormente, mediante Power BI, se extraen los archivos almacenados en la carpeta de SharePoint. Power BI, además de permitir conexiones a servicios como APIs o carpetas en la nube (tipo Drive), también puede acceder a carpetas de SharePoint y procesar archivos en formato json. Gracias a estas capacidades, fue posible elaborar el reporte directamente a partir de los archivos generados.
 
 ![Image](https://github.com/user-attachments/assets/f5464419-54e9-4c33-b8eb-ccafca40e7ab)
+
+Por último, la solución de respaldo (Back-up) reutiliza el flujo de procesos de la primera alternativa. La diferencia principal es que los archivos JSON son almacenados en una carpeta, ya sea en Google Drive o en OneDrive (Microsoft). Posteriormente, estos archivos pueden ser descargados mediante un notebook de Google Colab o desde una máquina virtual, para luego ser procesados y generar el reporte correspondiente.
+
+![Image](https://github.com/user-attachments/assets/87c55fd2-12e7-4570-b8f0-4b7145f8d833)
